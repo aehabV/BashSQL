@@ -1,5 +1,8 @@
 # MySQL Simulator using Bash
 
+[![Language Badge](https://img.shields.io/badge/Language-Bash-blue.svg)](https://www.gnu.org/software/bash/)
+[![License Badge](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+
 BashSQL is a Bash project that simulates a SQL database system. It provides a command-line interface for performing basic database operations, allowing users to interact with simulated SQL databases using Bash scripts.
 
 ## Features
